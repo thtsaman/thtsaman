@@ -2,9 +2,9 @@
 
 # Aman Jha
 
-### Building AI-powered products that solve real-world problems
+### Building AI-powered products with Full-Stack Engineering, Distributed Systems & Automation
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI+%26+ML+Engineer;Full-Stack+Developer;System+Design+Enthusiast;Open+Source+Contributor;Building+Production-Ready+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;AI-Powered+Application+Builder;Distributed+Systems+Enthusiast;DevOps+Learner;Building+Production-Ready+Software" />
 
 </div>
 
@@ -12,17 +12,15 @@
 
 ## About Me
 
-I'm a Computer Science undergraduate focused on building scalable software systems and AI-driven applications.
-
-Currently exploring:
+Computer Science undergraduate focused on building scalable software systems, AI-driven applications, and backend-heavy products.
 
 - AI & Machine Learning
 - Distributed Systems
-- System Design
-- Full Stack Engineering
+- Full-Stack Development
 - DevOps & Cloud Infrastructure
+- System Design
 
-My goal is to build products that create measurable real-world impact rather than portfolio-only projects.
+My goal is to build software that solves real-world problems and creates measurable impact.
 
 ---
 
@@ -35,73 +33,41 @@ My goal is to build products that create measurable real-world impact rather tha
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frontend
+### Frameworks & Tools
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-
-### Databases
-
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-
-### DevOps & Infrastructure
-
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
 
 ---
 
 ## Current Focus
 
 ```text
-Building: AI + Full Stack Applications
-Learning: Distributed Systems & Advanced Backend
-Practicing: Data Structures & Algorithms (Java)
-Exploring: Cloud Native Architecture
+Building    → AI + Full Stack Applications
+Learning    → Distributed Systems & Advanced Backend
+Practicing  → Data Structures & Algorithms (Java)
+Exploring   → Cloud Native Architecture
 ```
 
 ---
 
 ## GitHub Analytics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Aman-jha12&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Aman-jha12&theme=tokyonight" />
-</p>
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aman-jha12&theme=github_dark)
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aman-jha12&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aman-jha12&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aman-jha12&theme=github_dark" width="48%" />
 </p>
-
----
-
-## Featured Projects
-
-### DebtRadar
-
-- Code Debt analyzer and fixer AI Agent.
-- Dual view (Technical + Business ) for the Impact of the Debt 
-
----
-### Anveshak — Multi-Agent Log Intelligence & Root Cause Analysis
-
-- An automated log intelligence platform that transforms raw logs into actionable insights, reducing manual debugging effort.
----
-
-### Student Grievance Management Platform — AI-Powered Backend
-
-- Developed a grievance management backend with CRUD APIs, role-based workflows, and persistent ticket conversation history.
-- Implemented embeddings-based tagging, semantic clustering, and intelligent categorization using OpenAI models..
 
 ---
 
@@ -111,11 +77,11 @@ Exploring: Cloud Native Architecture
   <a href="https://www.linkedin.com/in/aman-jha-142269307/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  
+
   <a href="https://amanjhaportfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  
+
   <a href="mailto:ajha82703@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
@@ -123,8 +89,6 @@ Exploring: Cloud Native Architecture
 
 ---
 
-![](https://komarev.com/ghpvc/?username=Aman-jha12&style=for-the-badge)
-
----
-
-![](https://komarev.com/ghpvc/?username=Aman-jha12&style=for-the-badge)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aman-jha12&style=for-the-badge" />
+</p>
