@@ -62,11 +62,11 @@ Exploring   → Cloud Native Architecture
 
 ## GitHub Analytics
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aman-jha12&theme=github_dark)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thtsaman&theme=github_dark)
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aman-jha12&theme=github_dark" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aman-jha12&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thtsaman&theme=github_dark" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thtsaman&theme=github_dark" width="48%" />
 </p>
 
 ---
@@ -90,5 +90,5 @@ Exploring   → Cloud Native Architecture
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aman-jha12&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=thtsaman&style=for-the-badge" />
 </p>
