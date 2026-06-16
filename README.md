@@ -90,5 +90,5 @@ Exploring   → Cloud Native Architecture
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thtsaman&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=thtsaman&style=for-the-badge&base=1367" />
 </p>
